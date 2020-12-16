@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561602743605",
+    "project_id": "caro-79441",
+    "storage_bucket": "caro-79441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561602743605:android:361a4a5548152c251d907c",
+        "android_client_info": {
+          "package_name": "com.example.apppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561602743605-8336qg5o2h340pmiuupqbtuetem7k272.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQY7voVAgdKVSN6uXsOYOJWtc3U-Y55Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561602743605-8336qg5o2h340pmiuupqbtuetem7k272.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
